@@ -12,7 +12,11 @@
 | Visualizations       | dyngx            |
 | Report               | dyngx            |
 
-## Data cleaning
+## Documentation
+
+### Data cleaning
+
+The responses from the survey contains a lot of unnecessary strings - in other terms it is in human language and cannot be clean in bulks using python. Clean data case-by-case using excel. Remove any unnecessary columns and rows and human language. Add missing data or wrong data by mean of other inputs. Make sure that the data is in a tidy format.
 
 ### Labelings:
 
